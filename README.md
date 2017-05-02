@@ -1,0 +1,2 @@
+# nihan
+matris metodlari
